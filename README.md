@@ -35,8 +35,8 @@ Tänk på att du gör förmodligen inte bara gör 10 svängar, gör många reps 
 * Sneda situps, diagonala armbågarna
 * Benböj med sträckta armar
 * Upphopp ett ben växelvis, djupa mjuka landningar
-* Albatrossen, ligg på mage med armarna rakt ut, höger stortå mot vänster hand och vice versa. 
-* Anatomiska utfall, utfall där man sätter motstående hand mot den främre foten och sedan vänder upp torson och sträcker andra armen rakt upp.
+* [Albatrossen](albatrossen.md), ligg på mage med armarna rakt ut, höger stortå mot vänster hand och vice versa. 
+* [Anatomiska utfall](utfall.md), utfall där man sätter motstående hand mot den främre foten och sedan vänder upp torson och sträcker andra armen rakt upp.
 * Omvänd crunch, ligg på rygg och lägg armarna platt på marken lite utåt för balans, lyft upp benen från höften i 90 grader, lyft upp höften med fötterna upp mot taket och sedan kontrollerat ned. 
 * Jägarvila
 * Plankan
